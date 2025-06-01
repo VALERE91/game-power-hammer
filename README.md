@@ -1,7 +1,13 @@
 <p align="center">
     <img width="150" src="./public/logo.png" alt="logo">
 </p>
-<h1 align="center" style="border-bottom: 0;">Game Power Hammer</h1>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hi,👋🏻 I'm Anuj</h1>
+    </summary>
+  </ul>
+</div>
 
 ## Technologies run-down
 
