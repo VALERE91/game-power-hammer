@@ -4,7 +4,7 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>Game Power Hammer</h1>
+      <h1 align=center>Game Power Hammer</h1>
     </summary>
   </ul>
 </div>
