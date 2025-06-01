@@ -1,7 +1,7 @@
 <p align="center">
     <img width="150" src="./public/logo.png" alt="logo">
 </p>
-<div id="user-content-toc">
+<div id="toc">
   <h1 align=center style="border-bottom: 0;">Game Power Hammer</h1>
 </div>
 
