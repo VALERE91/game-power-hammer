@@ -2,11 +2,7 @@
     <img width="150" src="./public/logo.png" alt="logo">
 </p>
 <div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1 align=center>Game Power Hammer</h1>
-    </summary>
-  </ul>
+  <h1 align=center style="border-bottom: 0;">Game Power Hammer</h1>
 </div>
 
 ## Technologies run-down
