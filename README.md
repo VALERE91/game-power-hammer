@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">Game Power Hammer</h1>
 
-<br />
-
 ## Technologies run-down
 
 - Nuxt 3 (v4 ready!)
