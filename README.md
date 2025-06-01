@@ -1,9 +1,7 @@
-<style>h1 { border-bottom: 0; } </style>
-
 <p align="center">
     <img width="150" src="./public/logo.png" alt="logo">
 </p>
-<h1 align="center">Game Power Hammer</h1>
+<h1 align="center" style="border-bottom: 0;">Game Power Hammer</h1>
 
 ## Technologies run-down
 
