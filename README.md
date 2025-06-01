@@ -1,7 +1,7 @@
 <p align="center">
     <img width="150" src="./public/logo.png" alt="logo">
 </p>
-<h1 align="center">NUXTOR</h1>
+<h1 align="center">Game Power Hammer</h1>
 <p align="center">
 A spiritual successor of <a href="https://github.com/NicolaSpadari/vitauri">ViTauri</a>, made with <a href="https://nuxt.com">Nuxt 3</a> and <a href="https://v2.tauri.app">Tauri 2</a>
 <br>

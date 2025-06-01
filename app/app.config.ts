@@ -1,8 +1,8 @@
 export default defineAppConfig({
 	app: {
-		name: "Nuxtor",
-		author: "Nicola Spadari",
-		repo: "https://github.com/NicolaSpadari/nuxtor",
+		name: "Game Power Hammer",
+		author: "Valere Plantevin",
+		repo: "https://github.com/VALERE91/game-power-hammer",
 		tauriSite: "https://tauri.app",
 		nuxtSite: "https://nuxt.com",
 		nuxtUiSite: "https://ui3.nuxt.dev"
