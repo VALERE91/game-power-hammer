@@ -29,7 +29,7 @@
 		[
 			{
 				avatar: {
-					icon: "local:logo",
+					src: "~/assets/logo.svg",
 					size: "xl",
 					ui: {
 						root: "bg-transparent"
@@ -50,11 +50,10 @@
 		[
 			{
 				avatar: {
-					icon: "local:logo",
-					size: "3xl",
+					src: "~/assets/logo.svg",
+					size: "xl",
 					ui: {
-						root: "group bg-transparent",
-						icon: "opacity-70 group-hover:opacity-100"
+						root: "bg-transparent"
 					}
 				},
 				to: "/"

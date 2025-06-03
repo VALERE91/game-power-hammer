@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="150" src="./public/logo.png" alt="logo">
+    <img width="150" src="./public/logo.svg" alt="logo">
 </p>
 <div id="toc">
   <h1 align=center style="border-bottom: 0;">Game Power Hammer</h1>
